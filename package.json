@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@fast-csv/parse": "^4.3.6",
+    "axios": "^0.21.1",
+    "vcard": "^0.1.0"
+  }
+}
